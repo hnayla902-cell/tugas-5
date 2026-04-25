@@ -250,8 +250,6 @@ section{
 }
 
 /* MEMBER CARD */
-/* Responsive untuk HP */
-@media (max-width: 768px) {
 .member-card{
     border-radius:18px;
     padding:35px 20px;
@@ -287,7 +285,6 @@ section{
 .member-card p{
     color:  #00cfff;
     font-size:14px;
-}
 }
 
 /*TESTIMONI*/
